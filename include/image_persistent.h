@@ -15,6 +15,7 @@ private:
     lms::imaging::Image *outputImage;
 
     bool persistent;
+    bool firstRun;
 };
 
 #endif /* IMAGE_PERSISTENT_H */
